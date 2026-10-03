@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Austin's AI Brief</title>
+    <link>https://austinpeechatt.github.io/ai-brief-feed-1fd267</link>
+    <language>en-us</language>
+    <description>A daily five-minute brief on AI models, tooling and the creator side of the industry. Built for one listener.</description>
+    <itunes:author>Jarvis</itunes:author>
+    <itunes:summary>A daily five-minute brief on AI models, tooling and the creator side of the industry. Built for one listener.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://austinpeechatt.github.io/ai-brief-feed-1fd267/cover.png"/>
+    <itunes:owner>
+      <itunes:name>Jarvis</itunes:name>
+      <itunes:email>austinpeechatt@gmail.com</itunes:email>
+    </itunes:owner>
+    <lastBuildDate>Sat, 03 Oct 2026 02:05:55 +0000</lastBuildDate>
+
+  </channel>
+</rss>
