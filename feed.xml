@@ -3,23 +3,35 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Austin's AI Brief</title>
+    <title>AI Waterside Podcast</title>
     <link>https://austinpeechatt.github.io/ai-brief-feed-1fd267</link>
     <language>en-us</language>
-    <description>A daily five-minute brief on AI models, tooling and the creator side of the industry. Built for one listener.</description>
-    <itunes:author>Jarvis</itunes:author>
-    <itunes:summary>A daily five-minute brief on AI models, tooling and the creator side of the industry. Built for one listener.</itunes:summary>
+    <description>A daily brief on AI models, tooling and the creator side of the industry — what shipped, why it matters, and what to do about it.</description>
+    <itunes:author>Austin Peechatt</itunes:author>
+    <itunes:summary>A daily brief on AI models, tooling and the creator side of the industry — what shipped, why it matters, and what to do about it.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://austinpeechatt.github.io/ai-brief-feed-1fd267/cover.png"/>
     <itunes:owner>
-      <itunes:name>Jarvis</itunes:name>
+      <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 03 Oct 2026 11:51:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:00:46 +0000</lastBuildDate>
     <item>
       <title>Saturday, October 3</title>
-      <description>Gemini 4 Argon: our next era of frontier intelligence; Claude Code v2.1.288; amitshekhariitbhu/ai-system-design</description>
+      <description>• Gemini 4 Argon — Google DeepMind's new large model with a million‑token window, enabling whole‑codebase reasoning and complex multi‑step tasks.
+• Claude Code — Anthropic's coding assistant update adds UI shortcuts, in‑session GitHub API calls, and prompt recovery to streamline debugging.
+• AI System Design — a community‑curated repository that provides runnable notebooks and Docker configs for building production‑grade LLM, RAG, and agent pipelines.
+• Strands Decider — a lightweight decision‑model library that strips the generation head from a decoder LLM, delivering millisecond‑scale scored choices for real‑time pipelines.
+• Meta’s Muse Gadgets — open‑source firmware and Linux SDK let developers attach Meta’s personal AI assistant to cheap hardware, creating custom voice‑controlled peripherals.
+• GPT‑6 model guide — a concise playbook that consolidates community best practices for selecting variants, tuning reasoning depth, and safely orchestrating tool calls.</description>
+      <content:encoded><![CDATA[<ul><li>Gemini 4 Argon — Google DeepMind's new large model with a million‑token window, enabling whole‑codebase reasoning and complex multi‑step tasks.</li><li>Claude Code — Anthropic's coding assistant update adds UI shortcuts, in‑session GitHub API calls, and prompt recovery to streamline debugging.</li><li>AI System Design — a community‑curated repository that provides runnable notebooks and Docker configs for building production‑grade LLM, RAG, and agent pipelines.</li><li>Strands Decider — a lightweight decision‑model library that strips the generation head from a decoder LLM, delivering millisecond‑scale scored choices for real‑time pipelines.</li><li>Meta’s Muse Gadgets — open‑source firmware and Linux SDK let developers attach Meta’s personal AI assistant to cheap hardware, creating custom voice‑controlled peripherals.</li><li>GPT‑6 model guide — a concise playbook that consolidates community best practices for selecting variants, tuning reasoning depth, and safely orchestrating tool calls.</li></ul>]]></content:encoded>
+      <itunes:summary>• Gemini 4 Argon — Google DeepMind's new large model with a million‑token window, enabling whole‑codebase reasoning and complex multi‑step tasks.
+• Claude Code — Anthropic's coding assistant update adds UI shortcuts, in‑session GitHub API calls, and prompt recovery to streamline debugging.
+• AI System Design — a community‑curated repository that provides runnable notebooks and Docker configs for building production‑grade LLM, RAG, and agent pipelines.
+• Strands Decider — a lightweight decision‑model library that strips the generation head from a decoder LLM, delivering millisecond‑scale scored choices for real‑time pipelines.
+• Meta’s Muse Gadgets — open‑source firmware and Linux SDK let developers attach Meta’s personal AI assistant to cheap hardware, creating custom voice‑controlled peripherals.
+• GPT‑6 model guide — a concise playbook that consolidates community best practices for selecting variants, tuning reasoning depth, and safely orchestrating tool calls.</itunes:summary>
       <pubDate>Sat, 03 Oct 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-03</guid>
       <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-10-03.mp3" length="6339647" type="audio/mpeg"/>
@@ -28,7 +40,19 @@
     </item>
     <item>
       <title>Friday, October 2</title>
-      <description>A daily five-minute brief on AI models, tooling and the creator side of the industry. Built for one listener.</description>
+      <description>• Meta’s Muse Gadgets — an open‑source kit that lets developers attach hardware to Meta’s personal AI agent, enabling tangible actions such as scheduling meetings or controlling lights.
+• Gemini 4 Argon — Google DeepMind’s frontier model with million‑token context, allowing extremely long, multi‑step reasoning for tasks like code reviews or legal research.
+• GPT‑6 model guide — a concise playbook that helps startups select the appropriate GPT‑6 variant, tune reasoning depth, and integrate tools into production pipelines.
+• Claude Code — an update that adds a fullscreen text‑selection helper, built‑in GitHub API, and prompt recovery shortcut, reducing friction for developers using Claude for coding assistance.
+• AI System Design — an open‑source collection of lessons and runnable code that guides building LLM‑powered retrieval, generation, and autonomous‑agent pipelines, accelerating prototype to production.
+• Strands Decider — a system‑one decision model from Strands that replaces the language head with fast option scoring, delivering sub‑second choices for agentic workflows.</description>
+      <content:encoded><![CDATA[<ul><li>Meta’s Muse Gadgets — an open‑source kit that lets developers attach hardware to Meta’s personal AI agent, enabling tangible actions such as scheduling meetings or controlling lights.</li><li>Gemini 4 Argon — Google DeepMind’s frontier model with million‑token context, allowing extremely long, multi‑step reasoning for tasks like code reviews or legal research.</li><li>GPT‑6 model guide — a concise playbook that helps startups select the appropriate GPT‑6 variant, tune reasoning depth, and integrate tools into production pipelines.</li><li>Claude Code — an update that adds a fullscreen text‑selection helper, built‑in GitHub API, and prompt recovery shortcut, reducing friction for developers using Claude for coding assistance.</li><li>AI System Design — an open‑source collection of lessons and runnable code that guides building LLM‑powered retrieval, generation, and autonomous‑agent pipelines, accelerating prototype to production.</li><li>Strands Decider — a system‑one decision model from Strands that replaces the language head with fast option scoring, delivering sub‑second choices for agentic workflows.</li></ul>]]></content:encoded>
+      <itunes:summary>• Meta’s Muse Gadgets — an open‑source kit that lets developers attach hardware to Meta’s personal AI agent, enabling tangible actions such as scheduling meetings or controlling lights.
+• Gemini 4 Argon — Google DeepMind’s frontier model with million‑token context, allowing extremely long, multi‑step reasoning for tasks like code reviews or legal research.
+• GPT‑6 model guide — a concise playbook that helps startups select the appropriate GPT‑6 variant, tune reasoning depth, and integrate tools into production pipelines.
+• Claude Code — an update that adds a fullscreen text‑selection helper, built‑in GitHub API, and prompt recovery shortcut, reducing friction for developers using Claude for coding assistance.
+• AI System Design — an open‑source collection of lessons and runnable code that guides building LLM‑powered retrieval, generation, and autonomous‑agent pipelines, accelerating prototype to production.
+• Strands Decider — a system‑one decision model from Strands that replaces the language head with fast option scoring, delivering sub‑second choices for agentic workflows.</itunes:summary>
       <pubDate>Fri, 02 Oct 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-02</guid>
       <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-10-02.mp3" length="4850877" type="audio/mpeg"/>
