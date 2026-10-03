@@ -11,12 +11,17 @@
     <itunes:summary>A daily brief on AI models, tooling and the creator side of the industry — what shipped, why it matters, and what to do about it.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://austinpeechatt.github.io/ai-brief-feed-1fd267/cover.png"/>
+    <itunes:image href="https://austinpeechatt.github.io/ai-brief-feed-1fd267/cover-36bacd05.png"/>
+    <image>
+      <url>https://austinpeechatt.github.io/ai-brief-feed-1fd267/cover-36bacd05.png</url>
+      <title>AI Waterside Podcast</title>
+      <link>https://austinpeechatt.github.io/ai-brief-feed-1fd267</link>
+    </image>
     <itunes:owner>
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 03 Oct 2026 12:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:06:42 +0000</lastBuildDate>
     <item>
       <title>Saturday, October 3</title>
       <description>• Gemini 4 Argon — Google DeepMind's new large model with a million‑token window, enabling whole‑codebase reasoning and complex multi‑step tasks.
