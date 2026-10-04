@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 03 Oct 2026 12:06:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 22:24:37 +0000</lastBuildDate>
+    <item>
+      <title>Sunday, October 4</title>
+      <description>• Strata — an open‑source package that lets you run the 125‑billion‑parameter Qwen 3.8 Flash Next model locally, providing a private, high‑performance AI assistant without cloud fees.
+• Claude Code — Anthropic’s VS Code extension that integrates Claude directly into the editor, now more stable and faster, ensuring reliable code suggestions and secure policy enforcement.
+• Whirl — a full‑stack, MIT‑licensed AI chat app built with Next.js and Convex that offers private, extensible conversations with persistent “living documents” and optional services.
+• AI System Design — a community‑maintained guide that walks developers through prompt engineering, retrieval‑augmented generation, autonomous agents, and a production checklist for safety and cost.
+• GPT‑6 Model Guide — a concise playbook for startups that maps latency, token budget, and reasoning needs to the appropriate OpenAI model, helping control costs.
+• Simon Willison’s hard‑budget‑cap recommendation — argues that every pay‑by‑usage service, especially AWS, should enforce a dollar limit that stops workloads, preventing surprise overspend.</description>
+      <content:encoded><![CDATA[<ul><li>Strata — an open‑source package that lets you run the 125‑billion‑parameter Qwen 3.8 Flash Next model locally, providing a private, high‑performance AI assistant without cloud fees.</li><li>Claude Code — Anthropic’s VS Code extension that integrates Claude directly into the editor, now more stable and faster, ensuring reliable code suggestions and secure policy enforcement.</li><li>Whirl — a full‑stack, MIT‑licensed AI chat app built with Next.js and Convex that offers private, extensible conversations with persistent “living documents” and optional services.</li><li>AI System Design — a community‑maintained guide that walks developers through prompt engineering, retrieval‑augmented generation, autonomous agents, and a production checklist for safety and cost.</li><li>GPT‑6 Model Guide — a concise playbook for startups that maps latency, token budget, and reasoning needs to the appropriate OpenAI model, helping control costs.</li><li>Simon Willison’s hard‑budget‑cap recommendation — argues that every pay‑by‑usage service, especially AWS, should enforce a dollar limit that stops workloads, preventing surprise overspend.</li></ul>]]></content:encoded>
+      <itunes:summary>• Strata — an open‑source package that lets you run the 125‑billion‑parameter Qwen 3.8 Flash Next model locally, providing a private, high‑performance AI assistant without cloud fees.
+• Claude Code — Anthropic’s VS Code extension that integrates Claude directly into the editor, now more stable and faster, ensuring reliable code suggestions and secure policy enforcement.
+• Whirl — a full‑stack, MIT‑licensed AI chat app built with Next.js and Convex that offers private, extensible conversations with persistent “living documents” and optional services.
+• AI System Design — a community‑maintained guide that walks developers through prompt engineering, retrieval‑augmented generation, autonomous agents, and a production checklist for safety and cost.
+• GPT‑6 Model Guide — a concise playbook for startups that maps latency, token budget, and reasoning needs to the appropriate OpenAI model, helping control costs.
+• Simon Willison’s hard‑budget‑cap recommendation — argues that every pay‑by‑usage service, especially AWS, should enforce a dollar limit that stops workloads, preventing surprise overspend.</itunes:summary>
+      <pubDate>Sun, 04 Oct 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-04</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-10-04.mp3" length="8539367" type="audio/mpeg"/>
+      <itunes:duration>8:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Saturday, October 3</title>
       <description>• Gemini 4 Argon — Google DeepMind's new large model with a million‑token window, enabling whole‑codebase reasoning and complex multi‑step tasks.
