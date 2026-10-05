@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 04 Oct 2026 22:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:02:13 +0000</lastBuildDate>
+    <item>
+      <title>Monday, October 5</title>
+      <description>• Alibaba's Qwen 3.8 Flash Next — a 125‑billion‑parameter model that runs locally on consumer GPUs, enabling private coding, research, and image analysis.
+• Whirl — an open‑source self‑hosted AI chat platform built on Next.js and Convex that bundles top‑tier models, persistent memory, and optional tools.
+• AI System Design — an open‑source playbook that guides developers through LLM product architecture, retrieval‑augmented generation, and autonomous agent design.
+• Claude Code — Anthropic’s VS Code extension adds an inline sidebar for generating, refactoring, and explaining code with Claude, keeping the editor responsive.
+• OpenAI’s GPT‑6 Model Guide — a practical handbook that helps startups select model tiers, tune reasoning effort, and implement tool use for production.
+• X Video Composer — an AI‑powered caption editor using Grok that lets creators tweak, translate, and polish subtitles directly within the platform.</description>
+      <content:encoded><![CDATA[<ul><li>Alibaba's Qwen 3.8 Flash Next — a 125‑billion‑parameter model that runs locally on consumer GPUs, enabling private coding, research, and image analysis.</li><li>Whirl — an open‑source self‑hosted AI chat platform built on Next.js and Convex that bundles top‑tier models, persistent memory, and optional tools.</li><li>AI System Design — an open‑source playbook that guides developers through LLM product architecture, retrieval‑augmented generation, and autonomous agent design.</li><li>Claude Code — Anthropic’s VS Code extension adds an inline sidebar for generating, refactoring, and explaining code with Claude, keeping the editor responsive.</li><li>OpenAI’s GPT‑6 Model Guide — a practical handbook that helps startups select model tiers, tune reasoning effort, and implement tool use for production.</li><li>X Video Composer — an AI‑powered caption editor using Grok that lets creators tweak, translate, and polish subtitles directly within the platform.</li></ul>]]></content:encoded>
+      <itunes:summary>• Alibaba's Qwen 3.8 Flash Next — a 125‑billion‑parameter model that runs locally on consumer GPUs, enabling private coding, research, and image analysis.
+• Whirl — an open‑source self‑hosted AI chat platform built on Next.js and Convex that bundles top‑tier models, persistent memory, and optional tools.
+• AI System Design — an open‑source playbook that guides developers through LLM product architecture, retrieval‑augmented generation, and autonomous agent design.
+• Claude Code — Anthropic’s VS Code extension adds an inline sidebar for generating, refactoring, and explaining code with Claude, keeping the editor responsive.
+• OpenAI’s GPT‑6 Model Guide — a practical handbook that helps startups select model tiers, tune reasoning effort, and implement tool use for production.
+• X Video Composer — an AI‑powered caption editor using Grok that lets creators tweak, translate, and polish subtitles directly within the platform.</itunes:summary>
+      <pubDate>Mon, 05 Oct 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-05</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-10-05.mp3" length="5839350" type="audio/mpeg"/>
+      <itunes:duration>6:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sunday, October 4</title>
       <description>• Strata — an open‑source package that lets you run the 125‑billion‑parameter Qwen 3.8 Flash Next model locally, providing a private, high‑performance AI assistant without cloud fees.
