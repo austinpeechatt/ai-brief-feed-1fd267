@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 05 Oct 2026 10:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:22:58 +0000</lastBuildDate>
+    <item>
+      <title>Tuesday, October 6</title>
+      <description>• Reflection Beam — an open‑source 501‑billion‑parameter text model for coding, agentic tasks and scientific work, offering near‑state‑of‑the‑art performance on commodity hardware.
+• Whirl — a self‑hostable full‑stack AI chat application built on Next.js and Convex that lets you plug any LLM, persistent memory and tools, enabling rapid internal chatbot prototypes.
+• AI System Design — a curated open‑source tutorial collection that walks developers through building LLM pipelines, retrieval‑augmented generation and autonomous agents, accelerating product prototyping.
+• Instinct — an AI agent you can add to chats on iOS, Android or web, coordinating plans and tasks without requiring participants to install app.
+• TikTok AI shopping assistant — a conversational tool that guides users through product details, sizing and checkout, keeping commerce inside the TikTok feed and streamlining purchases.
+• Cowork cloud version — moves model inference and the VM to remote servers, giving uninterrupted performance across devices and enhancing security by isolating sessions.</description>
+      <content:encoded><![CDATA[<ul><li>Reflection Beam — an open‑source 501‑billion‑parameter text model for coding, agentic tasks and scientific work, offering near‑state‑of‑the‑art performance on commodity hardware.</li><li>Whirl — a self‑hostable full‑stack AI chat application built on Next.js and Convex that lets you plug any LLM, persistent memory and tools, enabling rapid internal chatbot prototypes.</li><li>AI System Design — a curated open‑source tutorial collection that walks developers through building LLM pipelines, retrieval‑augmented generation and autonomous agents, accelerating product prototyping.</li><li>Instinct — an AI agent you can add to chats on iOS, Android or web, coordinating plans and tasks without requiring participants to install app.</li><li>TikTok AI shopping assistant — a conversational tool that guides users through product details, sizing and checkout, keeping commerce inside the TikTok feed and streamlining purchases.</li><li>Cowork cloud version — moves model inference and the VM to remote servers, giving uninterrupted performance across devices and enhancing security by isolating sessions.</li></ul>]]></content:encoded>
+      <itunes:summary>• Reflection Beam — an open‑source 501‑billion‑parameter text model for coding, agentic tasks and scientific work, offering near‑state‑of‑the‑art performance on commodity hardware.
+• Whirl — a self‑hostable full‑stack AI chat application built on Next.js and Convex that lets you plug any LLM, persistent memory and tools, enabling rapid internal chatbot prototypes.
+• AI System Design — a curated open‑source tutorial collection that walks developers through building LLM pipelines, retrieval‑augmented generation and autonomous agents, accelerating product prototyping.
+• Instinct — an AI agent you can add to chats on iOS, Android or web, coordinating plans and tasks without requiring participants to install app.
+• TikTok AI shopping assistant — a conversational tool that guides users through product details, sizing and checkout, keeping commerce inside the TikTok feed and streamlining purchases.
+• Cowork cloud version — moves model inference and the VM to remote servers, giving uninterrupted performance across devices and enhancing security by isolating sessions.</itunes:summary>
+      <pubDate>Tue, 06 Oct 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-06</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-10-06.mp3" length="5602367" type="audio/mpeg"/>
+      <itunes:duration>5:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Monday, October 5</title>
       <description>• Alibaba's Qwen 3.8 Flash Next — a 125‑billion‑parameter model that runs locally on consumer GPUs, enabling private coding, research, and image analysis.
