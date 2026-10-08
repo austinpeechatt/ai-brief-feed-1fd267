@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 06 Oct 2026 10:22:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:23:45 +0000</lastBuildDate>
+    <item>
+      <title>Thursday, October 8</title>
+      <description>• GPT‑6 — OpenAI's latest ChatGPT model with an Intelligent UI that adds interactive panels, buttons and live widgets inside the chat, enabling rapid prototyping.
+• Claude Haiku 5.5 — Anthropic's small, low‑cost model with an adjustable effort knob, offering fast, cheap performance for high‑volume tasks like log summarisation and short‑text classification.
+• Mistral Large 4 — Mistral AI's 7‑billion‑parameter model that balances speed and reasoning depth, suitable for single‑GPU inference and providing a modest upgrade over existing Mistral 7B deployments.
+• EmbeddingGemma 2 — A lightweight multimodal embedding model built on Gemma 4 that unifies text, code, image, video and audio vectors for on‑device, privacy‑first search.
+• AI System Design guide — An open‑source, step‑by‑step notebook that shows how to build LLM‑centric retrieval, generation and autonomous‑agent pipelines, providing ready‑made scaffolding and evaluation scripts.
+• Strands‑decider — A lightweight “system‑one” decision model supporting Apple‑silicon, CUDA and vision inputs, offering faster choice selection than full LLMs for routing and tool‑selection in agent workflows.</description>
+      <content:encoded><![CDATA[<ul><li>GPT‑6 — OpenAI's latest ChatGPT model with an Intelligent UI that adds interactive panels, buttons and live widgets inside the chat, enabling rapid prototyping.</li><li>Claude Haiku 5.5 — Anthropic's small, low‑cost model with an adjustable effort knob, offering fast, cheap performance for high‑volume tasks like log summarisation and short‑text classification.</li><li>Mistral Large 4 — Mistral AI's 7‑billion‑parameter model that balances speed and reasoning depth, suitable for single‑GPU inference and providing a modest upgrade over existing Mistral 7B deployments.</li><li>EmbeddingGemma 2 — A lightweight multimodal embedding model built on Gemma 4 that unifies text, code, image, video and audio vectors for on‑device, privacy‑first search.</li><li>AI System Design guide — An open‑source, step‑by‑step notebook that shows how to build LLM‑centric retrieval, generation and autonomous‑agent pipelines, providing ready‑made scaffolding and evaluation scripts.</li><li>Strands‑decider — A lightweight “system‑one” decision model supporting Apple‑silicon, CUDA and vision inputs, offering faster choice selection than full LLMs for routing and tool‑selection in agent workflows.</li></ul>]]></content:encoded>
+      <itunes:summary>• GPT‑6 — OpenAI's latest ChatGPT model with an Intelligent UI that adds interactive panels, buttons and live widgets inside the chat, enabling rapid prototyping.
+• Claude Haiku 5.5 — Anthropic's small, low‑cost model with an adjustable effort knob, offering fast, cheap performance for high‑volume tasks like log summarisation and short‑text classification.
+• Mistral Large 4 — Mistral AI's 7‑billion‑parameter model that balances speed and reasoning depth, suitable for single‑GPU inference and providing a modest upgrade over existing Mistral 7B deployments.
+• EmbeddingGemma 2 — A lightweight multimodal embedding model built on Gemma 4 that unifies text, code, image, video and audio vectors for on‑device, privacy‑first search.
+• AI System Design guide — An open‑source, step‑by‑step notebook that shows how to build LLM‑centric retrieval, generation and autonomous‑agent pipelines, providing ready‑made scaffolding and evaluation scripts.
+• Strands‑decider — A lightweight “system‑one” decision model supporting Apple‑silicon, CUDA and vision inputs, offering faster choice selection than full LLMs for routing and tool‑selection in agent workflows.</itunes:summary>
+      <pubDate>Thu, 08 Oct 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-08</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-10-08.mp3" length="4142018" type="audio/mpeg"/>
+      <itunes:duration>4:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tuesday, October 6</title>
       <description>• Reflection Beam — an open‑source 501‑billion‑parameter text model for coding, agentic tasks and scientific work, offering near‑state‑of‑the‑art performance on commodity hardware.
