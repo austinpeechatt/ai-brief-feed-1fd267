@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 08 Oct 2026 10:23:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:22:19 +0000</lastBuildDate>
+    <item>
+      <title>Friday, October 9</title>
+      <description>• Claude Haiku 5.5 — Anthropic's new fast, low‑cost LLM offering higher reasoning quality at the cheapest token price for typical workloads.
+• EmbeddingGemma 2 — an open‑source, on‑device multimodal embedder that unifies text, code, images, video and audio for privacy‑first retrieval without cloud costs.
+• Strands‑decider — a system‑one decision model that scores options faster than full LLMs, enabling lightweight branching logic in autonomous agents, especially on Apple‑silicon Macs.
+• Whirl — a self‑hosted full‑stack AI chat app built with Next.js and Convex that lets users combine modular model, memory, and plug‑in features via API keys.
+• Codex Rust — the Rust client for Codex adds managed Git worktree tools, pinned task groups, and UI enhancements to streamline multi‑repo development.
+• Anthropic OSS Scanner — a free service that runs periodic vulnerability scans on open‑source repositories using Anthropic's models, providing automated reports for early security insight.</description>
+      <content:encoded><![CDATA[<ul><li>Claude Haiku 5.5 — Anthropic's new fast, low‑cost LLM offering higher reasoning quality at the cheapest token price for typical workloads.</li><li>EmbeddingGemma 2 — an open‑source, on‑device multimodal embedder that unifies text, code, images, video and audio for privacy‑first retrieval without cloud costs.</li><li>Strands‑decider — a system‑one decision model that scores options faster than full LLMs, enabling lightweight branching logic in autonomous agents, especially on Apple‑silicon Macs.</li><li>Whirl — a self‑hosted full‑stack AI chat app built with Next.js and Convex that lets users combine modular model, memory, and plug‑in features via API keys.</li><li>Codex Rust — the Rust client for Codex adds managed Git worktree tools, pinned task groups, and UI enhancements to streamline multi‑repo development.</li><li>Anthropic OSS Scanner — a free service that runs periodic vulnerability scans on open‑source repositories using Anthropic's models, providing automated reports for early security insight.</li></ul>]]></content:encoded>
+      <itunes:summary>• Claude Haiku 5.5 — Anthropic's new fast, low‑cost LLM offering higher reasoning quality at the cheapest token price for typical workloads.
+• EmbeddingGemma 2 — an open‑source, on‑device multimodal embedder that unifies text, code, images, video and audio for privacy‑first retrieval without cloud costs.
+• Strands‑decider — a system‑one decision model that scores options faster than full LLMs, enabling lightweight branching logic in autonomous agents, especially on Apple‑silicon Macs.
+• Whirl — a self‑hosted full‑stack AI chat app built with Next.js and Convex that lets users combine modular model, memory, and plug‑in features via API keys.
+• Codex Rust — the Rust client for Codex adds managed Git worktree tools, pinned task groups, and UI enhancements to streamline multi‑repo development.
+• Anthropic OSS Scanner — a free service that runs periodic vulnerability scans on open‑source repositories using Anthropic's models, providing automated reports for early security insight.</itunes:summary>
+      <pubDate>Fri, 09 Oct 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-09</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-10-09.mp3" length="4806573" type="audio/mpeg"/>
+      <itunes:duration>5:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thursday, October 8</title>
       <description>• GPT‑6 — OpenAI's latest ChatGPT model with an Intelligent UI that adds interactive panels, buttons and live widgets inside the chat, enabling rapid prototyping.
