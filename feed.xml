@@ -21,7 +21,26 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 09 Oct 2026 10:22:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 10:01:37 +0000</lastBuildDate>
+    <item>
+      <title>Sunday, October 11</title>
+      <description>• Claude Code — Anthropic's coding assistant update adds a code policy key, auto‑compact windows and a unified workflow subagent model, cutting latency and context overload.
+• Strands Decider — a decision‑model library that picks and scores options in one inference pass, delivering faster results without training data, running efficiently on Apple‑silicon Macs.
+• Whirl — an open‑source AI chat app on Next.js and Convex that enables self‑hosted, memory‑aware conversations with search, analytics and tool integrations via API keys.
+• celld — Cloudflare’s first‑class Durable Objects implementation for the Deno runtime, providing object‑storage‑only coordination that lets developers self‑host Workers‑style services with built‑in durability.
+• Caddy and Comma — AI agents for iMessage and RCS that connect to calendars and email, allowing users to create events or manage to‑dos via text.</description>
+      <content:encoded><![CDATA[<ul><li>Claude Code — Anthropic's coding assistant update adds a code policy key, auto‑compact windows and a unified workflow subagent model, cutting latency and context overload.</li><li>Strands Decider — a decision‑model library that picks and scores options in one inference pass, delivering faster results without training data, running efficiently on Apple‑silicon Macs.</li><li>Whirl — an open‑source AI chat app on Next.js and Convex that enables self‑hosted, memory‑aware conversations with search, analytics and tool integrations via API keys.</li><li>celld — Cloudflare’s first‑class Durable Objects implementation for the Deno runtime, providing object‑storage‑only coordination that lets developers self‑host Workers‑style services with built‑in durability.</li><li>Caddy and Comma — AI agents for iMessage and RCS that connect to calendars and email, allowing users to create events or manage to‑dos via text.</li></ul>]]></content:encoded>
+      <itunes:summary>• Claude Code — Anthropic's coding assistant update adds a code policy key, auto‑compact windows and a unified workflow subagent model, cutting latency and context overload.
+• Strands Decider — a decision‑model library that picks and scores options in one inference pass, delivering faster results without training data, running efficiently on Apple‑silicon Macs.
+• Whirl — an open‑source AI chat app on Next.js and Convex that enables self‑hosted, memory‑aware conversations with search, analytics and tool integrations via API keys.
+• celld — Cloudflare’s first‑class Durable Objects implementation for the Deno runtime, providing object‑storage‑only coordination that lets developers self‑host Workers‑style services with built‑in durability.
+• Caddy and Comma — AI agents for iMessage and RCS that connect to calendars and email, allowing users to create events or manage to‑dos via text.</itunes:summary>
+      <pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-11</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-10-11.mp3" length="3991971" type="audio/mpeg"/>
+      <itunes:duration>4:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Friday, October 9</title>
       <description>• Claude Haiku 5.5 — Anthropic's new fast, low‑cost LLM offering higher reasoning quality at the cheapest token price for typical workloads.
