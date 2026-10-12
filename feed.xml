@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 11 Oct 2026 10:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:01:52 +0000</lastBuildDate>
+    <item>
+      <title>Monday, October 12</title>
+      <description>• Strands Decider — a system‑one decision model that ranks options and scores them on Apple‑silicon Macs, enabling low‑latency branching in agentic workflows.
+• Claude Code — Anthropic’s coding assistant for desktop and CLI, now with unified policy keys and auto‑compacting context to reduce token waste in long sessions.
+• Whirl — an open‑source full‑stack AI chat platform built with Next.js and Convex that provides modular memory, tool plugins and easy self‑hosting for custom assistants.
+• Autonomous FPS Decompiler — using Claude Max and Codex Pro to decompile a shooter into C++, proving multi‑model orchestration can deliver production code.
+• Hermes Agent — an open‑source local LLM stack that lets developers run multi‑billion‑parameter models on Mac hardware, offering privacy‑first inference and reducing reliance on cloud APIs.
+• X API Exhibit — a showcase of apps and Grok Bot templates that use X data, helping developers discover integration patterns and lower entry barriers.</description>
+      <content:encoded><![CDATA[<ul><li>Strands Decider — a system‑one decision model that ranks options and scores them on Apple‑silicon Macs, enabling low‑latency branching in agentic workflows.</li><li>Claude Code — Anthropic’s coding assistant for desktop and CLI, now with unified policy keys and auto‑compacting context to reduce token waste in long sessions.</li><li>Whirl — an open‑source full‑stack AI chat platform built with Next.js and Convex that provides modular memory, tool plugins and easy self‑hosting for custom assistants.</li><li>Autonomous FPS Decompiler — using Claude Max and Codex Pro to decompile a shooter into C++, proving multi‑model orchestration can deliver production code.</li><li>Hermes Agent — an open‑source local LLM stack that lets developers run multi‑billion‑parameter models on Mac hardware, offering privacy‑first inference and reducing reliance on cloud APIs.</li><li>X API Exhibit — a showcase of apps and Grok Bot templates that use X data, helping developers discover integration patterns and lower entry barriers.</li></ul>]]></content:encoded>
+      <itunes:summary>• Strands Decider — a system‑one decision model that ranks options and scores them on Apple‑silicon Macs, enabling low‑latency branching in agentic workflows.
+• Claude Code — Anthropic’s coding assistant for desktop and CLI, now with unified policy keys and auto‑compacting context to reduce token waste in long sessions.
+• Whirl — an open‑source full‑stack AI chat platform built with Next.js and Convex that provides modular memory, tool plugins and easy self‑hosting for custom assistants.
+• Autonomous FPS Decompiler — using Claude Max and Codex Pro to decompile a shooter into C++, proving multi‑model orchestration can deliver production code.
+• Hermes Agent — an open‑source local LLM stack that lets developers run multi‑billion‑parameter models on Mac hardware, offering privacy‑first inference and reducing reliance on cloud APIs.
+• X API Exhibit — a showcase of apps and Grok Bot templates that use X data, helping developers discover integration patterns and lower entry barriers.</itunes:summary>
+      <pubDate>Mon, 12 Oct 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-12</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-10-12.mp3" length="7102005" type="audio/mpeg"/>
+      <itunes:duration>7:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sunday, October 11</title>
       <description>• Claude Code — Anthropic's coding assistant update adds a code policy key, auto‑compact windows and a unified workflow subagent model, cutting latency and context overload.
