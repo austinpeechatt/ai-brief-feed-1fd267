@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 12 Oct 2026 10:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:02:14 +0000</lastBuildDate>
+    <item>
+      <title>Tuesday, October 13</title>
+      <description>• Meta's Muse Wonder — Meta's second‑generation frontier language model, offering fast and full‑scale tiers with 1 M token context for high‑throughput personal‑agent applications.
+• Folkbench — An open‑source Tauri‑based desktop client that lets users switch between AI API endpoints instantly, displaying latency, token usage and cost to optimise performance.
+• Codex CLI — A command‑line tool now bundled with a background daemon that auto‑updates, which can continue running after the terminal closes, potentially creating unwanted processes.
+• Web‑edit — A lightweight Python web app using CodeMirror that serves a folder over Tailscale, enabling secure mobile editing of files without exposing data to external services.
+• New‑Term‑Radar — A daily scraper that monitors early mentions of AI‑related terms across social platforms and surfaces emerging names before traditional keyword tools detect them.
+• Local AI — Running large language models on personal hardware, now feasible with Apple’s Mac Studio, RTX Spark GPUs and open‑source models like Hermes for private, on‑device assistants.</description>
+      <content:encoded><![CDATA[<ul><li>Meta's Muse Wonder — Meta's second‑generation frontier language model, offering fast and full‑scale tiers with 1 M token context for high‑throughput personal‑agent applications.</li><li>Folkbench — An open‑source Tauri‑based desktop client that lets users switch between AI API endpoints instantly, displaying latency, token usage and cost to optimise performance.</li><li>Codex CLI — A command‑line tool now bundled with a background daemon that auto‑updates, which can continue running after the terminal closes, potentially creating unwanted processes.</li><li>Web‑edit — A lightweight Python web app using CodeMirror that serves a folder over Tailscale, enabling secure mobile editing of files without exposing data to external services.</li><li>New‑Term‑Radar — A daily scraper that monitors early mentions of AI‑related terms across social platforms and surfaces emerging names before traditional keyword tools detect them.</li><li>Local AI — Running large language models on personal hardware, now feasible with Apple’s Mac Studio, RTX Spark GPUs and open‑source models like Hermes for private, on‑device assistants.</li></ul>]]></content:encoded>
+      <itunes:summary>• Meta's Muse Wonder — Meta's second‑generation frontier language model, offering fast and full‑scale tiers with 1 M token context for high‑throughput personal‑agent applications.
+• Folkbench — An open‑source Tauri‑based desktop client that lets users switch between AI API endpoints instantly, displaying latency, token usage and cost to optimise performance.
+• Codex CLI — A command‑line tool now bundled with a background daemon that auto‑updates, which can continue running after the terminal closes, potentially creating unwanted processes.
+• Web‑edit — A lightweight Python web app using CodeMirror that serves a folder over Tailscale, enabling secure mobile editing of files without exposing data to external services.
+• New‑Term‑Radar — A daily scraper that monitors early mentions of AI‑related terms across social platforms and surfaces emerging names before traditional keyword tools detect them.
+• Local AI — Running large language models on personal hardware, now feasible with Apple’s Mac Studio, RTX Spark GPUs and open‑source models like Hermes for private, on‑device assistants.</itunes:summary>
+      <pubDate>Tue, 13 Oct 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-13</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-10-13.mp3" length="4504389" type="audio/mpeg"/>
+      <itunes:duration>4:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Monday, October 12</title>
       <description>• Strands Decider — a system‑one decision model that ranks options and scores them on Apple‑silicon Macs, enabling low‑latency branching in agentic workflows.
