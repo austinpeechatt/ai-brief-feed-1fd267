@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 13 Oct 2026 10:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:01:35 +0000</lastBuildDate>
+    <item>
+      <title>Wednesday, October 14</title>
+      <description>• Meta Muse Wonder Max — Meta's latest Fable‑class model designed for heavyweight reasoning, delivering multi‑step thought without excessive token usage.
+• LFM2.5‑24B‑A2B — a 24‑billion‑parameter mixture‑of‑experts model that activates only two billion parameters per token, enabling fast, cheap on‑device AI agents.
+• Claude Code — Anthropic's coding assistant with lazy file loading, idle conversation compaction, and media fields, allowing longer, more efficient coding sessions.
+• Folkbench Switch — a desktop client that lets developers toggle among dozens of AI relay endpoints instantly, simplifying configuration and preserving workflow continuity.
+• New Term Radar — a daily feed that surfaces emerging AI‑related terms from early social signals, giving marketers and creators a head start on trends.
+• Higgsfield — a creator platform that expands a one‑minute clip into a ten‑minute video using GPT‑6 Astra, GPT‑Image‑2.5, and GPT‑Live, automating script, visuals, and voice‑over.</description>
+      <content:encoded><![CDATA[<ul><li>Meta Muse Wonder Max — Meta's latest Fable‑class model designed for heavyweight reasoning, delivering multi‑step thought without excessive token usage.</li><li>LFM2.5‑24B‑A2B — a 24‑billion‑parameter mixture‑of‑experts model that activates only two billion parameters per token, enabling fast, cheap on‑device AI agents.</li><li>Claude Code — Anthropic's coding assistant with lazy file loading, idle conversation compaction, and media fields, allowing longer, more efficient coding sessions.</li><li>Folkbench Switch — a desktop client that lets developers toggle among dozens of AI relay endpoints instantly, simplifying configuration and preserving workflow continuity.</li><li>New Term Radar — a daily feed that surfaces emerging AI‑related terms from early social signals, giving marketers and creators a head start on trends.</li><li>Higgsfield — a creator platform that expands a one‑minute clip into a ten‑minute video using GPT‑6 Astra, GPT‑Image‑2.5, and GPT‑Live, automating script, visuals, and voice‑over.</li></ul>]]></content:encoded>
+      <itunes:summary>• Meta Muse Wonder Max — Meta's latest Fable‑class model designed for heavyweight reasoning, delivering multi‑step thought without excessive token usage.
+• LFM2.5‑24B‑A2B — a 24‑billion‑parameter mixture‑of‑experts model that activates only two billion parameters per token, enabling fast, cheap on‑device AI agents.
+• Claude Code — Anthropic's coding assistant with lazy file loading, idle conversation compaction, and media fields, allowing longer, more efficient coding sessions.
+• Folkbench Switch — a desktop client that lets developers toggle among dozens of AI relay endpoints instantly, simplifying configuration and preserving workflow continuity.
+• New Term Radar — a daily feed that surfaces emerging AI‑related terms from early social signals, giving marketers and creators a head start on trends.
+• Higgsfield — a creator platform that expands a one‑minute clip into a ten‑minute video using GPT‑6 Astra, GPT‑Image‑2.5, and GPT‑Live, automating script, visuals, and voice‑over.</itunes:summary>
+      <pubDate>Wed, 14 Oct 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-14</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-10-14.mp3" length="3828549" type="audio/mpeg"/>
+      <itunes:duration>3:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tuesday, October 13</title>
       <description>• Meta's Muse Wonder — Meta's second‑generation frontier language model, offering fast and full‑scale tiers with 1 M token context for high‑throughput personal‑agent applications.
