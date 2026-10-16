@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 15 Oct 2026 10:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:02:11 +0000</lastBuildDate>
+    <item>
+      <title>Friday, October 16</title>
+      <description>• Muse Spark Open — Meta's open‑weight mixture‑of‑experts multimodal model that handles text, images, audio and video with a million‑token context, enabling low‑cost, high‑capacity AI on local or cloud hardware.
+• Krea 3 — An image‑editing diffusion model that modifies only user‑specified regions, delivering pixel‑perfect edits in seconds at low cost for production pipelines.
+• Claude Code — Anthropic's developer assistant receives new retry watchdog, OpenTelemetry tracing, Vim bracket motion and multi‑line terminal input, improving reliability and observability for code generation.
+• motionmaxxing — An agent skill that rates AI‑generated video keyframes against curated motion benchmarks and automatically refines timing and easing, producing polished animations without cloud costs.
+• new‑term‑radar — A daily GitHub repository that tracks early star spikes to surface emerging AI model and tool terms, giving curators and product teams a cheap early‑warning.
+• ChatGPT Chrome extension — The updated extension adds tab‑aware capabilities, letting the assistant read, compare, and act on content across open tabs, streamlining web‑based workflows.</description>
+      <content:encoded><![CDATA[<ul><li>Muse Spark Open — Meta's open‑weight mixture‑of‑experts multimodal model that handles text, images, audio and video with a million‑token context, enabling low‑cost, high‑capacity AI on local or cloud hardware.</li><li>Krea 3 — An image‑editing diffusion model that modifies only user‑specified regions, delivering pixel‑perfect edits in seconds at low cost for production pipelines.</li><li>Claude Code — Anthropic's developer assistant receives new retry watchdog, OpenTelemetry tracing, Vim bracket motion and multi‑line terminal input, improving reliability and observability for code generation.</li><li>motionmaxxing — An agent skill that rates AI‑generated video keyframes against curated motion benchmarks and automatically refines timing and easing, producing polished animations without cloud costs.</li><li>new‑term‑radar — A daily GitHub repository that tracks early star spikes to surface emerging AI model and tool terms, giving curators and product teams a cheap early‑warning.</li><li>ChatGPT Chrome extension — The updated extension adds tab‑aware capabilities, letting the assistant read, compare, and act on content across open tabs, streamlining web‑based workflows.</li></ul>]]></content:encoded>
+      <itunes:summary>• Muse Spark Open — Meta's open‑weight mixture‑of‑experts multimodal model that handles text, images, audio and video with a million‑token context, enabling low‑cost, high‑capacity AI on local or cloud hardware.
+• Krea 3 — An image‑editing diffusion model that modifies only user‑specified regions, delivering pixel‑perfect edits in seconds at low cost for production pipelines.
+• Claude Code — Anthropic's developer assistant receives new retry watchdog, OpenTelemetry tracing, Vim bracket motion and multi‑line terminal input, improving reliability and observability for code generation.
+• motionmaxxing — An agent skill that rates AI‑generated video keyframes against curated motion benchmarks and automatically refines timing and easing, producing polished animations without cloud costs.
+• new‑term‑radar — A daily GitHub repository that tracks early star spikes to surface emerging AI model and tool terms, giving curators and product teams a cheap early‑warning.
+• ChatGPT Chrome extension — The updated extension adds tab‑aware capabilities, letting the assistant read, compare, and act on content across open tabs, streamlining web‑based workflows.</itunes:summary>
+      <pubDate>Fri, 16 Oct 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-16</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-10-16.mp3" length="6475484" type="audio/mpeg"/>
+      <itunes:duration>6:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thursday, October 15</title>
       <description>• LFM2.5‑24B‑A2B — a 24‑billion‑parameter reasoning model that activates only two billion parameters per token, enabling fast, private on‑device assistants with 131 K token context and explicit chain‑of‑thought.
