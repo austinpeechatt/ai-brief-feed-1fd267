@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 16 Oct 2026 10:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:23:41 +0000</lastBuildDate>
+    <item>
+      <title>Thursday, November 5</title>
+      <description>• Kimi K3.1 Pro — Kimi's open‑weight multimodal model with 3 trillion parameters, image, code, and text support, and a million‑token context for long‑form tasks.
+• Ripple‑65B Preview — Ripple's 65 billion‑parameter open‑weight LLM runs on‑prem or cloud with a million‑token window, delivering strong coding performance at low cost.
+• Claude Code — Anthropic's coding assistant update adds session recording, AWS assume_role support, and an effort flag for token‑budget transparency.
+• cvENGINE — Open‑source self‑hosted scanner correlates live assets with active CVE exploits, delivering a single prioritized verdict to reduce triage noise.
+• Phonon — A tiny on‑device 31 million‑parameter text‑to‑speech model using flow‑matching, providing high‑quality multilingual speech without cloud dependence.
+• Daybreak Red — OpenAI's GPT‑5.6 Cyber model available in AWS GovCloud, enabling compliant, state‑of‑the‑art LLM use for regulated cybersecurity workloads.</description>
+      <content:encoded><![CDATA[<ul><li>Kimi K3.1 Pro — Kimi's open‑weight multimodal model with 3 trillion parameters, image, code, and text support, and a million‑token context for long‑form tasks.</li><li>Ripple‑65B Preview — Ripple's 65 billion‑parameter open‑weight LLM runs on‑prem or cloud with a million‑token window, delivering strong coding performance at low cost.</li><li>Claude Code — Anthropic's coding assistant update adds session recording, AWS assume_role support, and an effort flag for token‑budget transparency.</li><li>cvENGINE — Open‑source self‑hosted scanner correlates live assets with active CVE exploits, delivering a single prioritized verdict to reduce triage noise.</li><li>Phonon — A tiny on‑device 31 million‑parameter text‑to‑speech model using flow‑matching, providing high‑quality multilingual speech without cloud dependence.</li><li>Daybreak Red — OpenAI's GPT‑5.6 Cyber model available in AWS GovCloud, enabling compliant, state‑of‑the‑art LLM use for regulated cybersecurity workloads.</li></ul>]]></content:encoded>
+      <itunes:summary>• Kimi K3.1 Pro — Kimi's open‑weight multimodal model with 3 trillion parameters, image, code, and text support, and a million‑token context for long‑form tasks.
+• Ripple‑65B Preview — Ripple's 65 billion‑parameter open‑weight LLM runs on‑prem or cloud with a million‑token window, delivering strong coding performance at low cost.
+• Claude Code — Anthropic's coding assistant update adds session recording, AWS assume_role support, and an effort flag for token‑budget transparency.
+• cvENGINE — Open‑source self‑hosted scanner correlates live assets with active CVE exploits, delivering a single prioritized verdict to reduce triage noise.
+• Phonon — A tiny on‑device 31 million‑parameter text‑to‑speech model using flow‑matching, providing high‑quality multilingual speech without cloud dependence.
+• Daybreak Red — OpenAI's GPT‑5.6 Cyber model available in AWS GovCloud, enabling compliant, state‑of‑the‑art LLM use for regulated cybersecurity workloads.</itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-05</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-11-05.mp3" length="5832245" type="audio/mpeg"/>
+      <itunes:duration>6:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Friday, October 16</title>
       <description>• Muse Spark Open — Meta's open‑weight mixture‑of‑experts multimodal model that handles text, images, audio and video with a million‑token context, enabling low‑cost, high‑capacity AI on local or cloud hardware.
