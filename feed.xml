@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 05 Nov 2026 12:23:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:48:47 +0000</lastBuildDate>
+    <item>
+      <title>Friday, November 6</title>
+      <description>• Gemini Omni Flash — a video‑generation model that creates native 15‑second clips and supports multi‑turn conversational editing, lowering cost and simplifying short‑form production.
+• GPT-6 Cyber — a cloud‑based LLM that scans code for exploitable bugs, proposes patches, and stays within defined permissions, accelerating security triage.
+• Claude Code — a coding assistant that logs its suggestions, can assume AWS roles, and lets users set effort levels to control cost and security.
+• Agentic Hacking Skills repository — a set of templates and skill modules enabling an LLM to act as a web security assistant, simplifying pen‑testing workflows.
+• cvEngine — an open‑source, self‑hosted pipeline that continuously scans exposed assets, correlates them with current CVEs, and presents only actionable exploit findings.
+• MCP (Model‑Tool Communication Protocol) — an open standard that defines how AI apps request tool actions from a server, enabling plug‑and‑play integration without hard‑coded APIs.</description>
+      <content:encoded><![CDATA[<ul><li>Gemini Omni Flash — a video‑generation model that creates native 15‑second clips and supports multi‑turn conversational editing, lowering cost and simplifying short‑form production.</li><li>GPT-6 Cyber — a cloud‑based LLM that scans code for exploitable bugs, proposes patches, and stays within defined permissions, accelerating security triage.</li><li>Claude Code — a coding assistant that logs its suggestions, can assume AWS roles, and lets users set effort levels to control cost and security.</li><li>Agentic Hacking Skills repository — a set of templates and skill modules enabling an LLM to act as a web security assistant, simplifying pen‑testing workflows.</li><li>cvEngine — an open‑source, self‑hosted pipeline that continuously scans exposed assets, correlates them with current CVEs, and presents only actionable exploit findings.</li><li>MCP (Model‑Tool Communication Protocol) — an open standard that defines how AI apps request tool actions from a server, enabling plug‑and‑play integration without hard‑coded APIs.</li></ul>]]></content:encoded>
+      <itunes:summary>• Gemini Omni Flash — a video‑generation model that creates native 15‑second clips and supports multi‑turn conversational editing, lowering cost and simplifying short‑form production.
+• GPT-6 Cyber — a cloud‑based LLM that scans code for exploitable bugs, proposes patches, and stays within defined permissions, accelerating security triage.
+• Claude Code — a coding assistant that logs its suggestions, can assume AWS roles, and lets users set effort levels to control cost and security.
+• Agentic Hacking Skills repository — a set of templates and skill modules enabling an LLM to act as a web security assistant, simplifying pen‑testing workflows.
+• cvEngine — an open‑source, self‑hosted pipeline that continuously scans exposed assets, correlates them with current CVEs, and presents only actionable exploit findings.
+• MCP (Model‑Tool Communication Protocol) — an open standard that defines how AI apps request tool actions from a server, enabling plug‑and‑play integration without hard‑coded APIs.</itunes:summary>
+      <pubDate>Fri, 06 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-06</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-11-06.mp3" length="5096219" type="audio/mpeg"/>
+      <itunes:duration>5:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thursday, November 5</title>
       <description>• Kimi K3.1 Pro — Kimi's open‑weight multimodal model with 3 trillion parameters, image, code, and text support, and a million‑token context for long‑form tasks.
