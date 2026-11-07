@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 06 Nov 2026 11:48:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 13:26:50 +0000</lastBuildDate>
+    <item>
+      <title>Saturday, November 7</title>
+      <description>• Cursor voice chat — a live voice call interface for the coding agent, adding audible feedback and hands‑free interaction while preserving privacy.
+• Gemini Omni Flash — Google's generative video model that creates up to fifteen‑second clips with multi‑turn editing, reducing cost and iteration time for marketers and designers.
+• Claude Code privacy mod — a community‑built plugin that strips user‑identifying headers from web searches, preventing email leakage and improving agent privacy by default.
+• NVIDIA Cosmos 3 checkpoints — open‑weight models for interactive world simulation that generate synchronized camera and LiDAR streams, enabling synthetic data for autonomous‑vehicle and robotics research.
+• Agentic Hacking Skills repository — an open‑source collection of AI‑driven security playbooks and configurations that let compatible models execute automated penetration‑testing workflows with minimal setup.
+• Meta Spaces — a sidebar panel in Muse agents that provides a persistent, topic‑focused canvas for organizing project context and integrating external data sources.</description>
+      <content:encoded><![CDATA[<ul><li>Cursor voice chat — a live voice call interface for the coding agent, adding audible feedback and hands‑free interaction while preserving privacy.</li><li>Gemini Omni Flash — Google's generative video model that creates up to fifteen‑second clips with multi‑turn editing, reducing cost and iteration time for marketers and designers.</li><li>Claude Code privacy mod — a community‑built plugin that strips user‑identifying headers from web searches, preventing email leakage and improving agent privacy by default.</li><li>NVIDIA Cosmos 3 checkpoints — open‑weight models for interactive world simulation that generate synchronized camera and LiDAR streams, enabling synthetic data for autonomous‑vehicle and robotics research.</li><li>Agentic Hacking Skills repository — an open‑source collection of AI‑driven security playbooks and configurations that let compatible models execute automated penetration‑testing workflows with minimal setup.</li><li>Meta Spaces — a sidebar panel in Muse agents that provides a persistent, topic‑focused canvas for organizing project context and integrating external data sources.</li></ul>]]></content:encoded>
+      <itunes:summary>• Cursor voice chat — a live voice call interface for the coding agent, adding audible feedback and hands‑free interaction while preserving privacy.
+• Gemini Omni Flash — Google's generative video model that creates up to fifteen‑second clips with multi‑turn editing, reducing cost and iteration time for marketers and designers.
+• Claude Code privacy mod — a community‑built plugin that strips user‑identifying headers from web searches, preventing email leakage and improving agent privacy by default.
+• NVIDIA Cosmos 3 checkpoints — open‑weight models for interactive world simulation that generate synchronized camera and LiDAR streams, enabling synthetic data for autonomous‑vehicle and robotics research.
+• Agentic Hacking Skills repository — an open‑source collection of AI‑driven security playbooks and configurations that let compatible models execute automated penetration‑testing workflows with minimal setup.
+• Meta Spaces — a sidebar panel in Muse agents that provides a persistent, topic‑focused canvas for organizing project context and integrating external data sources.</itunes:summary>
+      <pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-07</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-11-07.mp3" length="10423527" type="audio/mpeg"/>
+      <itunes:duration>10:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Friday, November 6</title>
       <description>• Gemini Omni Flash — a video‑generation model that creates native 15‑second clips and supports multi‑turn conversational editing, lowering cost and simplifying short‑form production.
