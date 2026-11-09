@@ -21,7 +21,18 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 07 Nov 2026 13:26:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:59:29 +0000</lastBuildDate>
+    <item>
+      <title>Monday, November 9</title>
+      <description>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU; Claude Code v2.1.319; mrhlaingbwardev/agentic-hacking-skills</description>
+      <content:encoded><![CDATA[<p>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU; Claude Code v2.1.319; mrhlaingbwardev/agentic-hacking-skills</p>]]></content:encoded>
+      <itunes:summary>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU; Claude Code v2.1.319; mrhlaingbwardev/agentic-hacking-skills</itunes:summary>
+      <pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-09</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-11-09.mp3" length="3825623" type="audio/mpeg"/>
+      <itunes:duration>3:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Saturday, November 7</title>
       <description>• Cursor voice chat — a live voice call interface for the coding agent, adding audible feedback and hands‑free interaction while preserving privacy.
