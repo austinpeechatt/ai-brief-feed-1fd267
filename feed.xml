@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 09 Nov 2026 11:59:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:17:35 +0000</lastBuildDate>
+    <item>
+      <title>Friday, November 13</title>
+      <description>• Claude Code Code Mode — an experimental mode that emits runnable JavaScript tied to version‑gated plugins, cutting debugging time for AI‑augmented IDEs.
+• Gemini 4 Hydrogen — Google’s low‑cost tier of the Gemini 4 family, delivering faster, token‑efficient responses for high‑volume, routine coding tasks.
+• Agentic Hacking Skills — a GitHub collection of AI‑driven web security agents and skill templates that auto‑install and run, enabling one‑command vulnerability automation.
+• WebsiteBench — an open‑source benchmark that asks agents to reverse‑engineer live sites into full‑stack replicas, using thousands of hidden functional and visual checks to gauge readiness.
+• Muse phone‑call feature — Meta’s consumer AI now places calls to U.S. businesses for subscribers, extending assistance to voice interactions and saving user time.
+• AWS Emulator — a local drop‑in replacement for AWS APIs that lets developers and CI pipelines run S3, DynamoDB, Lambda mocks offline, avoiding cloud charges.</description>
+      <content:encoded><![CDATA[<ul><li>Claude Code Code Mode — an experimental mode that emits runnable JavaScript tied to version‑gated plugins, cutting debugging time for AI‑augmented IDEs.</li><li>Gemini 4 Hydrogen — Google’s low‑cost tier of the Gemini 4 family, delivering faster, token‑efficient responses for high‑volume, routine coding tasks.</li><li>Agentic Hacking Skills — a GitHub collection of AI‑driven web security agents and skill templates that auto‑install and run, enabling one‑command vulnerability automation.</li><li>WebsiteBench — an open‑source benchmark that asks agents to reverse‑engineer live sites into full‑stack replicas, using thousands of hidden functional and visual checks to gauge readiness.</li><li>Muse phone‑call feature — Meta’s consumer AI now places calls to U.S. businesses for subscribers, extending assistance to voice interactions and saving user time.</li><li>AWS Emulator — a local drop‑in replacement for AWS APIs that lets developers and CI pipelines run S3, DynamoDB, Lambda mocks offline, avoiding cloud charges.</li></ul>]]></content:encoded>
+      <itunes:summary>• Claude Code Code Mode — an experimental mode that emits runnable JavaScript tied to version‑gated plugins, cutting debugging time for AI‑augmented IDEs.
+• Gemini 4 Hydrogen — Google’s low‑cost tier of the Gemini 4 family, delivering faster, token‑efficient responses for high‑volume, routine coding tasks.
+• Agentic Hacking Skills — a GitHub collection of AI‑driven web security agents and skill templates that auto‑install and run, enabling one‑command vulnerability automation.
+• WebsiteBench — an open‑source benchmark that asks agents to reverse‑engineer live sites into full‑stack replicas, using thousands of hidden functional and visual checks to gauge readiness.
+• Muse phone‑call feature — Meta’s consumer AI now places calls to U.S. businesses for subscribers, extending assistance to voice interactions and saving user time.
+• AWS Emulator — a local drop‑in replacement for AWS APIs that lets developers and CI pipelines run S3, DynamoDB, Lambda mocks offline, avoiding cloud charges.</itunes:summary>
+      <pubDate>Fri, 13 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-13</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-11-13.mp3" length="6266923" type="audio/mpeg"/>
+      <itunes:duration>6:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Monday, November 9</title>
       <description>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU; Claude Code v2.1.319; mrhlaingbwardev/agentic-hacking-skills</description>
