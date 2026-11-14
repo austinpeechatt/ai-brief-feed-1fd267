@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 13 Nov 2026 11:17:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 11:23:06 +0000</lastBuildDate>
+    <item>
+      <title>Saturday, November 14</title>
+      <description>• Gemini 4 Hydrogen — Google DeepMind's new large‑language model optimized for fast, cheap code generation and testing, offering a million‑token context and predictable pricing.
+• ChatGPT Wallet — OpenAI's built‑in payment layer that lets AI agents complete purchases within the chat, removing checkout friction and preserving security checks.
+• Claude Code — Anthropic's IDE‑integrated coding assistant, updated with security fixes and usability tweaks that improve reliability and clarity for pair‑programming.
+• WebsiteBench — an open‑source benchmark that tasks AI agents with fully recreating live websites, providing functional and near‑perfect visual fidelity metrics.
+• agentic‑hacking‑skills repository — a curated collection of AI‑driven security playbooks and skill templates enabling agents to perform scans, fuzzing, and reporting without manual prompting.
+• AWS emulator — an official open‑source Rust‑based Docker project that locally mimics many Amazon services, allowing fast, cost‑free integration testing.</description>
+      <content:encoded><![CDATA[<ul><li>Gemini 4 Hydrogen — Google DeepMind's new large‑language model optimized for fast, cheap code generation and testing, offering a million‑token context and predictable pricing.</li><li>ChatGPT Wallet — OpenAI's built‑in payment layer that lets AI agents complete purchases within the chat, removing checkout friction and preserving security checks.</li><li>Claude Code — Anthropic's IDE‑integrated coding assistant, updated with security fixes and usability tweaks that improve reliability and clarity for pair‑programming.</li><li>WebsiteBench — an open‑source benchmark that tasks AI agents with fully recreating live websites, providing functional and near‑perfect visual fidelity metrics.</li><li>agentic‑hacking‑skills repository — a curated collection of AI‑driven security playbooks and skill templates enabling agents to perform scans, fuzzing, and reporting without manual prompting.</li><li>AWS emulator — an official open‑source Rust‑based Docker project that locally mimics many Amazon services, allowing fast, cost‑free integration testing.</li></ul>]]></content:encoded>
+      <itunes:summary>• Gemini 4 Hydrogen — Google DeepMind's new large‑language model optimized for fast, cheap code generation and testing, offering a million‑token context and predictable pricing.
+• ChatGPT Wallet — OpenAI's built‑in payment layer that lets AI agents complete purchases within the chat, removing checkout friction and preserving security checks.
+• Claude Code — Anthropic's IDE‑integrated coding assistant, updated with security fixes and usability tweaks that improve reliability and clarity for pair‑programming.
+• WebsiteBench — an open‑source benchmark that tasks AI agents with fully recreating live websites, providing functional and near‑perfect visual fidelity metrics.
+• agentic‑hacking‑skills repository — a curated collection of AI‑driven security playbooks and skill templates enabling agents to perform scans, fuzzing, and reporting without manual prompting.
+• AWS emulator — an official open‑source Rust‑based Docker project that locally mimics many Amazon services, allowing fast, cost‑free integration testing.</itunes:summary>
+      <pubDate>Sat, 14 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-14</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-11-14.mp3" length="9661587" type="audio/mpeg"/>
+      <itunes:duration>10:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Friday, November 13</title>
       <description>• Claude Code Code Mode — an experimental mode that emits runnable JavaScript tied to version‑gated plugins, cutting debugging time for AI‑augmented IDEs.
