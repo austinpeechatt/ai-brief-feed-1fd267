@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 14 Nov 2026 11:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:48:02 +0000</lastBuildDate>
+    <item>
+      <title>Sunday, November 15</title>
+      <description>• Gemini 4 Hydrogen — Google’s new AI model optimized for fast, cost‑effective code generation and agentic tasks, offering a million‑token context and integration via Gemini API and AI Studio.
+• ChatGPT Wallet — OpenAI’s built‑in payment layer lets ChatGPT agents complete purchases with a single user approval, streamlining automated resource provisioning and recurring transactions.
+• Manus — an autonomous AI assistant that writes, runs, and drives a browser to execute multi‑step web tasks, letting users automate data collection, form filling, and reporting.
+• GitHub Copilot app — a desktop hub from GitHub that consolidates issue browsing, agent execution, and pull‑request management into a single pane, improving workflow efficiency and reducing context switching.
+• Agweb — a macOS WebKit‑based browser that runs in the background, providing a CLI‑controlled visible window for coding agents while suspending idle tabs to save CPU.
+• datasette‑llm — a plugin for the Datasette platform that lets any OpenAI‑compatible LLM endpoint, including local models, answer natural‑language queries over SQLite data, improving privacy and latency.</description>
+      <content:encoded><![CDATA[<ul><li>Gemini 4 Hydrogen — Google’s new AI model optimized for fast, cost‑effective code generation and agentic tasks, offering a million‑token context and integration via Gemini API and AI Studio.</li><li>ChatGPT Wallet — OpenAI’s built‑in payment layer lets ChatGPT agents complete purchases with a single user approval, streamlining automated resource provisioning and recurring transactions.</li><li>Manus — an autonomous AI assistant that writes, runs, and drives a browser to execute multi‑step web tasks, letting users automate data collection, form filling, and reporting.</li><li>GitHub Copilot app — a desktop hub from GitHub that consolidates issue browsing, agent execution, and pull‑request management into a single pane, improving workflow efficiency and reducing context switching.</li><li>Agweb — a macOS WebKit‑based browser that runs in the background, providing a CLI‑controlled visible window for coding agents while suspending idle tabs to save CPU.</li><li>datasette‑llm — a plugin for the Datasette platform that lets any OpenAI‑compatible LLM endpoint, including local models, answer natural‑language queries over SQLite data, improving privacy and latency.</li></ul>]]></content:encoded>
+      <itunes:summary>• Gemini 4 Hydrogen — Google’s new AI model optimized for fast, cost‑effective code generation and agentic tasks, offering a million‑token context and integration via Gemini API and AI Studio.
+• ChatGPT Wallet — OpenAI’s built‑in payment layer lets ChatGPT agents complete purchases with a single user approval, streamlining automated resource provisioning and recurring transactions.
+• Manus — an autonomous AI assistant that writes, runs, and drives a browser to execute multi‑step web tasks, letting users automate data collection, form filling, and reporting.
+• GitHub Copilot app — a desktop hub from GitHub that consolidates issue browsing, agent execution, and pull‑request management into a single pane, improving workflow efficiency and reducing context switching.
+• Agweb — a macOS WebKit‑based browser that runs in the background, providing a CLI‑controlled visible window for coding agents while suspending idle tabs to save CPU.
+• datasette‑llm — a plugin for the Datasette platform that lets any OpenAI‑compatible LLM endpoint, including local models, answer natural‑language queries over SQLite data, improving privacy and latency.</itunes:summary>
+      <pubDate>Sun, 15 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-15</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-11-15.mp3" length="8571132" type="audio/mpeg"/>
+      <itunes:duration>8:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Saturday, November 14</title>
       <description>• Gemini 4 Hydrogen — Google DeepMind's new large‑language model optimized for fast, cheap code generation and testing, offering a million‑token context and predictable pricing.
