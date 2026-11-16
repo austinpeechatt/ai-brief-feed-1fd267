@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 15 Nov 2026 11:48:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:03:05 +0000</lastBuildDate>
+    <item>
+      <title>Monday, November 16</title>
+      <description>• llama.cpp — a portable C/C++ library for running large language models locally, now stable at version 1.0 enabling private on‑prem AI applications.
+• Gemini Config Checker — a lightweight web UI that validates Google AI Studio proxy access by mimicking a signed‑in user, providing reliable connectivity signals.
+• Claude Code — a VS Code extension that assists coding with Claude, adding a spinner, security patch, and inline policy hints for smoother, safer notebook workflows.
+• Datasette MapLibre — a Datasette plugin that adds interactive vector maps using MapLibre GL and free tiles, enabling browser‑only geospatial visualisation without external services.
+• Datasette Apps — an HTML/JS app framework for Datasette that now supports URL‑fragment linking and automatic agent suggestions, turning separate apps into a cohesive dashboard.
+• Blackwell GPU Forensic Study — analysis of model weight patterns proving Chinese AI labs trained recent models on NVIDIA Blackwell GPUs, highlighting export‑control circumvention risks.</description>
+      <content:encoded><![CDATA[<ul><li>llama.cpp — a portable C/C++ library for running large language models locally, now stable at version 1.0 enabling private on‑prem AI applications.</li><li>Gemini Config Checker — a lightweight web UI that validates Google AI Studio proxy access by mimicking a signed‑in user, providing reliable connectivity signals.</li><li>Claude Code — a VS Code extension that assists coding with Claude, adding a spinner, security patch, and inline policy hints for smoother, safer notebook workflows.</li><li>Datasette MapLibre — a Datasette plugin that adds interactive vector maps using MapLibre GL and free tiles, enabling browser‑only geospatial visualisation without external services.</li><li>Datasette Apps — an HTML/JS app framework for Datasette that now supports URL‑fragment linking and automatic agent suggestions, turning separate apps into a cohesive dashboard.</li><li>Blackwell GPU Forensic Study — analysis of model weight patterns proving Chinese AI labs trained recent models on NVIDIA Blackwell GPUs, highlighting export‑control circumvention risks.</li></ul>]]></content:encoded>
+      <itunes:summary>• llama.cpp — a portable C/C++ library for running large language models locally, now stable at version 1.0 enabling private on‑prem AI applications.
+• Gemini Config Checker — a lightweight web UI that validates Google AI Studio proxy access by mimicking a signed‑in user, providing reliable connectivity signals.
+• Claude Code — a VS Code extension that assists coding with Claude, adding a spinner, security patch, and inline policy hints for smoother, safer notebook workflows.
+• Datasette MapLibre — a Datasette plugin that adds interactive vector maps using MapLibre GL and free tiles, enabling browser‑only geospatial visualisation without external services.
+• Datasette Apps — an HTML/JS app framework for Datasette that now supports URL‑fragment linking and automatic agent suggestions, turning separate apps into a cohesive dashboard.
+• Blackwell GPU Forensic Study — analysis of model weight patterns proving Chinese AI labs trained recent models on NVIDIA Blackwell GPUs, highlighting export‑control circumvention risks.</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-16</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-11-16.mp3" length="9621881" type="audio/mpeg"/>
+      <itunes:duration>10:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sunday, November 15</title>
       <description>• Gemini 4 Hydrogen — Google’s new AI model optimized for fast, cost‑effective code generation and agentic tasks, offering a million‑token context and integration via Gemini API and AI Studio.
