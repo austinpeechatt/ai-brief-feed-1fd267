@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 16 Nov 2026 11:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:02:36 +0000</lastBuildDate>
+    <item>
+      <title>Tuesday, November 17</title>
+      <description>• OpenRouter API for Hugging Face models — an endpoint that lets developers call any open‑weight model on the Hub, automatically routing to the cheapest, fastest provider.
+• Claude Code — Anthropic’s coding assistant packaged as a local CLI tool that auto‑activates Code Mode and improves multi‑agent workflow reliability.
+• WebsiteBench — a benchmark that tasks an agent with recreating live websites, providing thousands of visual and functional checks to validate full‑stack scraping or UI‑generation agents.
+• Ask Studio with Dynamic Thumbnails — YouTube’s AI assistant that generates video ideas and automatically serves the best thumbnail variant to each audience segment, boosting click‑through rates.
+• Gemini Config Checker — a utility that verifies proxy settings from the perspective of a signed‑in Google AI Studio user, exposing region‑based blocks missed by HTTP probes.
+• MIT Technology Review on AI safety — argues that safe AI needs external limits instead of internal monitoring, providing a framework for sandboxed runtimes and kill switches.</description>
+      <content:encoded><![CDATA[<ul><li>OpenRouter API for Hugging Face models — an endpoint that lets developers call any open‑weight model on the Hub, automatically routing to the cheapest, fastest provider.</li><li>Claude Code — Anthropic’s coding assistant packaged as a local CLI tool that auto‑activates Code Mode and improves multi‑agent workflow reliability.</li><li>WebsiteBench — a benchmark that tasks an agent with recreating live websites, providing thousands of visual and functional checks to validate full‑stack scraping or UI‑generation agents.</li><li>Ask Studio with Dynamic Thumbnails — YouTube’s AI assistant that generates video ideas and automatically serves the best thumbnail variant to each audience segment, boosting click‑through rates.</li><li>Gemini Config Checker — a utility that verifies proxy settings from the perspective of a signed‑in Google AI Studio user, exposing region‑based blocks missed by HTTP probes.</li><li>MIT Technology Review on AI safety — argues that safe AI needs external limits instead of internal monitoring, providing a framework for sandboxed runtimes and kill switches.</li></ul>]]></content:encoded>
+      <itunes:summary>• OpenRouter API for Hugging Face models — an endpoint that lets developers call any open‑weight model on the Hub, automatically routing to the cheapest, fastest provider.
+• Claude Code — Anthropic’s coding assistant packaged as a local CLI tool that auto‑activates Code Mode and improves multi‑agent workflow reliability.
+• WebsiteBench — a benchmark that tasks an agent with recreating live websites, providing thousands of visual and functional checks to validate full‑stack scraping or UI‑generation agents.
+• Ask Studio with Dynamic Thumbnails — YouTube’s AI assistant that generates video ideas and automatically serves the best thumbnail variant to each audience segment, boosting click‑through rates.
+• Gemini Config Checker — a utility that verifies proxy settings from the perspective of a signed‑in Google AI Studio user, exposing region‑based blocks missed by HTTP probes.
+• MIT Technology Review on AI safety — argues that safe AI needs external limits instead of internal monitoring, providing a framework for sandboxed runtimes and kill switches.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-17</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-11-17.mp3" length="4250270" type="audio/mpeg"/>
+      <itunes:duration>4:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Monday, November 16</title>
       <description>• llama.cpp — a portable C/C++ library for running large language models locally, now stable at version 1.0 enabling private on‑prem AI applications.
