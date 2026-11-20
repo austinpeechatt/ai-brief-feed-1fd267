@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 19 Nov 2026 11:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:16:19 +0000</lastBuildDate>
+    <item>
+      <title>Friday, November 20</title>
+      <description>• Gemini 4 Neon — Google’s new large‑language model that acts as a software engineer and researcher, offering million‑token context and reduced hallucinations for complex multi‑step workflows.
+• datasette‑arrows — a community plugin for the open‑source Datasette platform that streams Apache Arrow exports, enabling memory‑light, high‑throughput data transfers for large tables.
+• Daybreak Red — an OpenAI reference architecture for a supervised security‑investigation assistant, providing turnkey LLM integration, audit‑ready logging, and real‑time risk scoring for SOC teams.
+• PR‑scans demo — a walkthrough showing an LLM automatically reviewing pull requests within GitHub’s UI, surfacing security, style, and performance insights without extra permissions.
+• Performance Factory — OpenAI’s internal Codex‑powered system that continuously detects latency regressions in ChatGPT, generates micro‑optimisations, and deploys patches via automated CI.
+• Apple on‑device AI agent — a rumored Mac‑based assistant that can navigate apps, browse the web, and write or debug code while keeping all data private on the device.</description>
+      <content:encoded><![CDATA[<ul><li>Gemini 4 Neon — Google’s new large‑language model that acts as a software engineer and researcher, offering million‑token context and reduced hallucinations for complex multi‑step workflows.</li><li>datasette‑arrows — a community plugin for the open‑source Datasette platform that streams Apache Arrow exports, enabling memory‑light, high‑throughput data transfers for large tables.</li><li>Daybreak Red — an OpenAI reference architecture for a supervised security‑investigation assistant, providing turnkey LLM integration, audit‑ready logging, and real‑time risk scoring for SOC teams.</li><li>PR‑scans demo — a walkthrough showing an LLM automatically reviewing pull requests within GitHub’s UI, surfacing security, style, and performance insights without extra permissions.</li><li>Performance Factory — OpenAI’s internal Codex‑powered system that continuously detects latency regressions in ChatGPT, generates micro‑optimisations, and deploys patches via automated CI.</li><li>Apple on‑device AI agent — a rumored Mac‑based assistant that can navigate apps, browse the web, and write or debug code while keeping all data private on the device.</li></ul>]]></content:encoded>
+      <itunes:summary>• Gemini 4 Neon — Google’s new large‑language model that acts as a software engineer and researcher, offering million‑token context and reduced hallucinations for complex multi‑step workflows.
+• datasette‑arrows — a community plugin for the open‑source Datasette platform that streams Apache Arrow exports, enabling memory‑light, high‑throughput data transfers for large tables.
+• Daybreak Red — an OpenAI reference architecture for a supervised security‑investigation assistant, providing turnkey LLM integration, audit‑ready logging, and real‑time risk scoring for SOC teams.
+• PR‑scans demo — a walkthrough showing an LLM automatically reviewing pull requests within GitHub’s UI, surfacing security, style, and performance insights without extra permissions.
+• Performance Factory — OpenAI’s internal Codex‑powered system that continuously detects latency regressions in ChatGPT, generates micro‑optimisations, and deploys patches via automated CI.
+• Apple on‑device AI agent — a rumored Mac‑based assistant that can navigate apps, browse the web, and write or debug code while keeping all data private on the device.</itunes:summary>
+      <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-20</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-11-20.mp3" length="5157241" type="audio/mpeg"/>
+      <itunes:duration>5:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thursday, November 19</title>
       <description>• Gemini 4 Neon — Google DeepMind’s new multimodal model that handles million‑token contexts across code, documents, audio and video, enabling unified data synthesis.
