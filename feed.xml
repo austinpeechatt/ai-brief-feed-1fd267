@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 20 Nov 2026 11:16:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:01:33 +0000</lastBuildDate>
+    <item>
+      <title>Saturday, November 21</title>
+      <description>• Gemini 4 Neon — Google DeepMind’s multimodal model that handles engineering, knowledge work, and scientific analysis in a single pass, enabling unified workflows with massive context and low hallucination.
+• Claude Code — Anthropic’s coding assistant for macOS and Linux integrates into IDEs, offering enterprise sign‑in, on‑demand charting, and self‑hosted execution for secure, visual code reviews.
+• Gezhi‑Sheets — An open‑source spreadsheet add‑on that lets users select rows, have an LLM categorize demand and write concise summaries, preserving full Excel functionality.
+• Hebbia’s Matrix — Hebbia’s AI tool now runs on OpenAI’s GPT‑6 Astra to extract source documents and auto‑generate PowerPoint decks, delivering traceable citations for high‑value banking decisions.
+• MedChemBench — MedChemBench evaluates models on reading molecular structures, interpreting assay results, and prioritizing compounds, revealing gaps between property prediction and real drug‑discovery decisions.
+• METR’s updated time‑horizon plot — METR’s visualization tracks how quickly AI models extend task lengths, showing continued exponential gains for verifiable tasks but slower progress on judgment‑heavy work.</description>
+      <content:encoded><![CDATA[<ul><li>Gemini 4 Neon — Google DeepMind’s multimodal model that handles engineering, knowledge work, and scientific analysis in a single pass, enabling unified workflows with massive context and low hallucination.</li><li>Claude Code — Anthropic’s coding assistant for macOS and Linux integrates into IDEs, offering enterprise sign‑in, on‑demand charting, and self‑hosted execution for secure, visual code reviews.</li><li>Gezhi‑Sheets — An open‑source spreadsheet add‑on that lets users select rows, have an LLM categorize demand and write concise summaries, preserving full Excel functionality.</li><li>Hebbia’s Matrix — Hebbia’s AI tool now runs on OpenAI’s GPT‑6 Astra to extract source documents and auto‑generate PowerPoint decks, delivering traceable citations for high‑value banking decisions.</li><li>MedChemBench — MedChemBench evaluates models on reading molecular structures, interpreting assay results, and prioritizing compounds, revealing gaps between property prediction and real drug‑discovery decisions.</li><li>METR’s updated time‑horizon plot — METR’s visualization tracks how quickly AI models extend task lengths, showing continued exponential gains for verifiable tasks but slower progress on judgment‑heavy work.</li></ul>]]></content:encoded>
+      <itunes:summary>• Gemini 4 Neon — Google DeepMind’s multimodal model that handles engineering, knowledge work, and scientific analysis in a single pass, enabling unified workflows with massive context and low hallucination.
+• Claude Code — Anthropic’s coding assistant for macOS and Linux integrates into IDEs, offering enterprise sign‑in, on‑demand charting, and self‑hosted execution for secure, visual code reviews.
+• Gezhi‑Sheets — An open‑source spreadsheet add‑on that lets users select rows, have an LLM categorize demand and write concise summaries, preserving full Excel functionality.
+• Hebbia’s Matrix — Hebbia’s AI tool now runs on OpenAI’s GPT‑6 Astra to extract source documents and auto‑generate PowerPoint decks, delivering traceable citations for high‑value banking decisions.
+• MedChemBench — MedChemBench evaluates models on reading molecular structures, interpreting assay results, and prioritizing compounds, revealing gaps between property prediction and real drug‑discovery decisions.
+• METR’s updated time‑horizon plot — METR’s visualization tracks how quickly AI models extend task lengths, showing continued exponential gains for verifiable tasks but slower progress on judgment‑heavy work.</itunes:summary>
+      <pubDate>Sat, 21 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-21</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-11-21.mp3" length="4106492" type="audio/mpeg"/>
+      <itunes:duration>4:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Friday, November 20</title>
       <description>• Gemini 4 Neon — Google’s new large‑language model that acts as a software engineer and researcher, offering million‑token context and reduced hallucinations for complex multi‑step workflows.
