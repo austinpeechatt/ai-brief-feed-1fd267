@@ -21,7 +21,28 @@
       <itunes:name>Austin Peechatt</itunes:name>
       <itunes:email>austinpeechatt@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 21 Nov 2026 11:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 11:48:42 +0000</lastBuildDate>
+    <item>
+      <title>Sunday, November 22</title>
+      <description>• Gemini 4 Hydrogen — an xhigh reasoning tier in the llm‑gemini plugin that yields much longer, more detailed outputs for research assistants and code generation.
+• Harness adapters — RL‑trained LoRA‑style add‑ons that specialize a frozen model for a specific harness, raising accuracy and halving token consumption.
+• Claude Code — Anthropic’s IDE now integrates enterprise authentication, a chart‑drawing easel mod, and a flexible start‑directory flag, simplifying team deployment and debugging.
+• Gezhi‑sheets — a Chinese‑language spreadsheet add‑on that uses LLMs to categorize feedback rows and generate one‑sentence summaries while keeping data locally encrypted.
+• MR Office — open‑source browser editors for Word, Excel, PowerPoint and PDF that provide full‑fidelity editing and real‑time co‑editing without desktop software.
+• GPT‑6 Astra — OpenAI’s model used by Hebbia’s Matrix to improve source‑selection accuracy and automatically generate citation‑rich presentation slides for financial due‑diligence.</description>
+      <content:encoded><![CDATA[<ul><li>Gemini 4 Hydrogen — an xhigh reasoning tier in the llm‑gemini plugin that yields much longer, more detailed outputs for research assistants and code generation.</li><li>Harness adapters — RL‑trained LoRA‑style add‑ons that specialize a frozen model for a specific harness, raising accuracy and halving token consumption.</li><li>Claude Code — Anthropic’s IDE now integrates enterprise authentication, a chart‑drawing easel mod, and a flexible start‑directory flag, simplifying team deployment and debugging.</li><li>Gezhi‑sheets — a Chinese‑language spreadsheet add‑on that uses LLMs to categorize feedback rows and generate one‑sentence summaries while keeping data locally encrypted.</li><li>MR Office — open‑source browser editors for Word, Excel, PowerPoint and PDF that provide full‑fidelity editing and real‑time co‑editing without desktop software.</li><li>GPT‑6 Astra — OpenAI’s model used by Hebbia’s Matrix to improve source‑selection accuracy and automatically generate citation‑rich presentation slides for financial due‑diligence.</li></ul>]]></content:encoded>
+      <itunes:summary>• Gemini 4 Hydrogen — an xhigh reasoning tier in the llm‑gemini plugin that yields much longer, more detailed outputs for research assistants and code generation.
+• Harness adapters — RL‑trained LoRA‑style add‑ons that specialize a frozen model for a specific harness, raising accuracy and halving token consumption.
+• Claude Code — Anthropic’s IDE now integrates enterprise authentication, a chart‑drawing easel mod, and a flexible start‑directory flag, simplifying team deployment and debugging.
+• Gezhi‑sheets — a Chinese‑language spreadsheet add‑on that uses LLMs to categorize feedback rows and generate one‑sentence summaries while keeping data locally encrypted.
+• MR Office — open‑source browser editors for Word, Excel, PowerPoint and PDF that provide full‑fidelity editing and real‑time co‑editing without desktop software.
+• GPT‑6 Astra — OpenAI’s model used by Hebbia’s Matrix to improve source‑selection accuracy and automatically generate citation‑rich presentation slides for financial due‑diligence.</itunes:summary>
+      <pubDate>Sun, 22 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-22</guid>
+      <enclosure url="https://austinpeechatt.github.io/ai-brief-feed-1fd267/episodes/2026-11-22.mp3" length="8910932" type="audio/mpeg"/>
+      <itunes:duration>9:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Saturday, November 21</title>
       <description>• Gemini 4 Neon — Google DeepMind’s multimodal model that handles engineering, knowledge work, and scientific analysis in a single pass, enabling unified workflows with massive context and low hallucination.
